@@ -7,6 +7,8 @@ Barbieri A, Tami M, Bry X, Azria D, Gourgou S, Mollevi C and Lavergne C. EM algo
 
 To try the current development version from github, use:
 
+```{r} 
 if (!requireNamespace("devtools", quietly = TRUE)) {
     install.packages("devtools")}
 devtools::install_github("AntoineBbi/QoLSEM")
+ ```
